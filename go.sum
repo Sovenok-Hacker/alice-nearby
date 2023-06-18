@@ -1,0 +1,8 @@
+github.com/azzzak/alice-nearby v0.0.0-20190313192243-cc06e94f5f74 h1:Z5RXG5XKgmCeM7Cv+YDZyG4Hzl4tqCs6vcifbZwhwuU=
+github.com/azzzak/alice-nearby v0.0.0-20190313192243-cc06e94f5f74/go.mod h1:eDWp7BwSkmA6WhPwpBIMi4wfAMFKqd/QYQNmaq1h40A=
+github.com/jessevdk/go-flags v1.5.0 h1:1jKYvbxEjfUl0fmqTCOfonvskHHXMjBySTLW4y9LFvc=
+github.com/jessevdk/go-flags v1.5.0/go.mod h1:Fw0T6WPc1dYxT4mKEZRfG5kJhaTDP9pj1c2EWnYs/m4=
+github.com/rakyll/statik v0.1.7 h1:OF3QCZUuyPxuGEP7B4ypUa7sB/iHtqOTDYZXGM8KOdQ=
+github.com/rakyll/statik v0.1.7/go.mod h1:AlZONWzMtEnMs7W4e/1LURLiI49pIMmp6V9Unghqrcc=
+golang.org/x/sys v0.0.0-20210320140829-1e4c9ba3b0c4 h1:EZ2mChiOa8udjfp6rRmswTbtZN/QzUQp4ptM4rnjHvc=
+golang.org/x/sys v0.0.0-20210320140829-1e4c9ba3b0c4/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
