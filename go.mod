@@ -3,6 +3,7 @@ module alice-nearby
 go 1.20
 
 require (
+	github.com/Sovenok-Hacker/alice-nearby latest
 	github.com/jessevdk/go-flags v1.5.0
 	github.com/rakyll/statik v0.1.7
 )
